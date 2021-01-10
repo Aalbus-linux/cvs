@@ -1,0 +1,30 @@
+xgetcwd.o: xgetcwd.c ../config.h xgetcwd.h /include/errno.h \
+  /include/features.h /include/bits/errno.h getcwd.h /include/stdlib.h \
+  /include/bits/alltypes.h /include/alloca.h /include/unistd.h \
+  /include/bits/posix.h xalloc.h /include/stddef.h
+
+../config.h:
+
+xgetcwd.h:
+
+/include/errno.h:
+
+/include/features.h:
+
+/include/bits/errno.h:
+
+getcwd.h:
+
+/include/stdlib.h:
+
+/include/bits/alltypes.h:
+
+/include/alloca.h:
+
+/include/unistd.h:
+
+/include/bits/posix.h:
+
+xalloc.h:
+
+/include/stddef.h:

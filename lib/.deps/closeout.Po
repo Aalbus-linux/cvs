@@ -1,0 +1,39 @@
+closeout.o: closeout.c ../config.h closeout.h /include/stdio.h \
+  /include/features.h /include/bits/alltypes.h /include/stdbool.h \
+  /include/errno.h /include/bits/errno.h gettext.h /include/libintl.h \
+  error.h exitfail.h quotearg.h /include/stddef.h __fpending.h \
+  /include/stdio_ext.h unlocked-io.h
+
+../config.h:
+
+closeout.h:
+
+/include/stdio.h:
+
+/include/features.h:
+
+/include/bits/alltypes.h:
+
+/include/stdbool.h:
+
+/include/errno.h:
+
+/include/bits/errno.h:
+
+gettext.h:
+
+/include/libintl.h:
+
+error.h:
+
+exitfail.h:
+
+quotearg.h:
+
+/include/stddef.h:
+
+__fpending.h:
+
+/include/stdio_ext.h:
+
+unlocked-io.h:

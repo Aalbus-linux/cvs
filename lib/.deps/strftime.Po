@@ -1,0 +1,42 @@
+strftime.o: strftime.c ../config.h /include/ctype.h /include/features.h \
+  /include/bits/alltypes.h /include/sys/types.h /include/endian.h \
+  /include/sys/select.h /include/sys/time.h /include/time.h \
+  /include/wchar.h /include/limits.h /include/bits/limits.h \
+  /include/stdbool.h /include/stddef.h /include/stdlib.h \
+  /include/alloca.h /include/string.h /include/strings.h
+
+../config.h:
+
+/include/ctype.h:
+
+/include/features.h:
+
+/include/bits/alltypes.h:
+
+/include/sys/types.h:
+
+/include/endian.h:
+
+/include/sys/select.h:
+
+/include/sys/time.h:
+
+/include/time.h:
+
+/include/wchar.h:
+
+/include/limits.h:
+
+/include/bits/limits.h:
+
+/include/stdbool.h:
+
+/include/stddef.h:
+
+/include/stdlib.h:
+
+/include/alloca.h:
+
+/include/string.h:
+
+/include/strings.h:

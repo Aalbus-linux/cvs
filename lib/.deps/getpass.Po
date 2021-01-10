@@ -1,0 +1,40 @@
+getpass.o: getpass.c ../config.h getpass.h /include/unistd.h \
+  /include/features.h /include/bits/alltypes.h /include/bits/posix.h \
+  /include/stdio.h /include/stdbool.h /include/stdio_ext.h \
+  /include/termios.h /include/bits/termios.h getline.h /include/stddef.h \
+  /include/sys/types.h /include/endian.h /include/sys/select.h \
+  unlocked-io.h
+
+../config.h:
+
+getpass.h:
+
+/include/unistd.h:
+
+/include/features.h:
+
+/include/bits/alltypes.h:
+
+/include/bits/posix.h:
+
+/include/stdio.h:
+
+/include/stdbool.h:
+
+/include/stdio_ext.h:
+
+/include/termios.h:
+
+/include/bits/termios.h:
+
+getline.h:
+
+/include/stddef.h:
+
+/include/sys/types.h:
+
+/include/endian.h:
+
+/include/sys/select.h:
+
+unlocked-io.h:

@@ -1,0 +1,12 @@
+asnprintf.o: asnprintf.c ../config.h vasnprintf.h /include/stdarg.h \
+  /include/bits/alltypes.h /include/stddef.h
+
+../config.h:
+
+vasnprintf.h:
+
+/include/stdarg.h:
+
+/include/bits/alltypes.h:
+
+/include/stddef.h:

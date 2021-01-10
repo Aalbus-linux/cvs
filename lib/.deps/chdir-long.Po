@@ -1,0 +1,65 @@
+chdir-long.o: chdir-long.c ../config.h chdir-long.h /include/unistd.h \
+  /include/features.h /include/bits/alltypes.h /include/bits/posix.h \
+  /include/limits.h /include/bits/limits.h /include/stdlib.h \
+  /include/alloca.h /include/stdbool.h /include/string.h \
+  /include/strings.h /include/errno.h /include/bits/errno.h \
+  /include/stdio.h /include/assert.h memrchr.h openat.h /include/fcntl.h \
+  /include/bits/fcntl.h /include/sys/types.h /include/endian.h \
+  /include/sys/select.h /include/sys/stat.h /include/bits/stat.h \
+  /include/dirent.h /include/bits/dirent.h
+
+../config.h:
+
+chdir-long.h:
+
+/include/unistd.h:
+
+/include/features.h:
+
+/include/bits/alltypes.h:
+
+/include/bits/posix.h:
+
+/include/limits.h:
+
+/include/bits/limits.h:
+
+/include/stdlib.h:
+
+/include/alloca.h:
+
+/include/stdbool.h:
+
+/include/string.h:
+
+/include/strings.h:
+
+/include/errno.h:
+
+/include/bits/errno.h:
+
+/include/stdio.h:
+
+/include/assert.h:
+
+memrchr.h:
+
+openat.h:
+
+/include/fcntl.h:
+
+/include/bits/fcntl.h:
+
+/include/sys/types.h:
+
+/include/endian.h:
+
+/include/sys/select.h:
+
+/include/sys/stat.h:
+
+/include/bits/stat.h:
+
+/include/dirent.h:
+
+/include/bits/dirent.h:

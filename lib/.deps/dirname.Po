@@ -1,0 +1,21 @@
+dirname.o: dirname.c ../config.h dirname.h /include/stdbool.h \
+  /include/stddef.h /include/bits/alltypes.h /include/string.h \
+  /include/features.h /include/strings.h xalloc.h
+
+../config.h:
+
+dirname.h:
+
+/include/stdbool.h:
+
+/include/stddef.h:
+
+/include/bits/alltypes.h:
+
+/include/string.h:
+
+/include/features.h:
+
+/include/strings.h:
+
+xalloc.h:

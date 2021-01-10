@@ -1,0 +1,17 @@
+strnlen1.o: strnlen1.c ../config.h strnlen1.h /include/stddef.h \
+  /include/bits/alltypes.h /include/string.h /include/features.h \
+  /include/strings.h
+
+../config.h:
+
+strnlen1.h:
+
+/include/stddef.h:
+
+/include/bits/alltypes.h:
+
+/include/string.h:
+
+/include/features.h:
+
+/include/strings.h:

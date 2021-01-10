@@ -1,0 +1,14 @@
+pipe-safer.o: pipe-safer.c ../config.h unistd-safer.h /include/unistd.h \
+  /include/features.h /include/bits/alltypes.h /include/bits/posix.h
+
+../config.h:
+
+unistd-safer.h:
+
+/include/unistd.h:
+
+/include/features.h:
+
+/include/bits/alltypes.h:
+
+/include/bits/posix.h:

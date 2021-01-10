@@ -1,0 +1,83 @@
+canonicalize.o: canonicalize.c ../config.h canonicalize.h \
+  /include/stdlib.h /include/features.h /include/bits/alltypes.h \
+  /include/alloca.h /include/string.h /include/strings.h \
+  /include/sys/param.h /include/sys/resource.h /include/sys/time.h \
+  /include/sys/select.h /include/bits/resource.h /include/endian.h \
+  /include/limits.h /include/bits/limits.h /include/sys/stat.h \
+  /include/bits/stat.h /include/unistd.h /include/bits/posix.h \
+  /include/errno.h /include/bits/errno.h /include/stddef.h cycle-check.h \
+  /include/inttypes.h /include/stdint.h /include/bits/stdint.h \
+  /include/stdbool.h dev-ino.h /include/sys/types.h filenamecat.h \
+  stat-macros.h xalloc.h xgetcwd.h pathmax.h xreadlink.h
+
+../config.h:
+
+canonicalize.h:
+
+/include/stdlib.h:
+
+/include/features.h:
+
+/include/bits/alltypes.h:
+
+/include/alloca.h:
+
+/include/string.h:
+
+/include/strings.h:
+
+/include/sys/param.h:
+
+/include/sys/resource.h:
+
+/include/sys/time.h:
+
+/include/sys/select.h:
+
+/include/bits/resource.h:
+
+/include/endian.h:
+
+/include/limits.h:
+
+/include/bits/limits.h:
+
+/include/sys/stat.h:
+
+/include/bits/stat.h:
+
+/include/unistd.h:
+
+/include/bits/posix.h:
+
+/include/errno.h:
+
+/include/bits/errno.h:
+
+/include/stddef.h:
+
+cycle-check.h:
+
+/include/inttypes.h:
+
+/include/stdint.h:
+
+/include/bits/stdint.h:
+
+/include/stdbool.h:
+
+dev-ino.h:
+
+/include/sys/types.h:
+
+filenamecat.h:
+
+stat-macros.h:
+
+xalloc.h:
+
+xgetcwd.h:
+
+pathmax.h:
+
+xreadlink.h:

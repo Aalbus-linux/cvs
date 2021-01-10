@@ -1,0 +1,42 @@
+cycle-check.o: cycle-check.c ../config.h /include/sys/types.h \
+  /include/features.h /include/bits/alltypes.h /include/endian.h \
+  /include/sys/select.h /include/sys/stat.h /include/bits/stat.h \
+  /include/stdio.h /include/assert.h /include/stdlib.h /include/alloca.h \
+  /include/stdbool.h cycle-check.h /include/inttypes.h /include/stdint.h \
+  /include/bits/stdint.h dev-ino.h
+
+../config.h:
+
+/include/sys/types.h:
+
+/include/features.h:
+
+/include/bits/alltypes.h:
+
+/include/endian.h:
+
+/include/sys/select.h:
+
+/include/sys/stat.h:
+
+/include/bits/stat.h:
+
+/include/stdio.h:
+
+/include/assert.h:
+
+/include/stdlib.h:
+
+/include/alloca.h:
+
+/include/stdbool.h:
+
+cycle-check.h:
+
+/include/inttypes.h:
+
+/include/stdint.h:
+
+/include/bits/stdint.h:
+
+dev-ino.h:

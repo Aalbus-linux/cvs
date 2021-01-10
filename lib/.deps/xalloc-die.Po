@@ -1,0 +1,25 @@
+xalloc-die.o: xalloc-die.c ../config.h xalloc.h /include/stddef.h \
+  /include/bits/alltypes.h /include/stdlib.h /include/features.h \
+  /include/alloca.h error.h exitfail.h gettext.h /include/libintl.h
+
+../config.h:
+
+xalloc.h:
+
+/include/stddef.h:
+
+/include/bits/alltypes.h:
+
+/include/stdlib.h:
+
+/include/features.h:
+
+/include/alloca.h:
+
+error.h:
+
+exitfail.h:
+
+gettext.h:
+
+/include/libintl.h:

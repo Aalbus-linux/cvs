@@ -1,0 +1,17 @@
+printf-args.o: printf-args.c ../config.h printf-args.h /include/stddef.h \
+  /include/bits/alltypes.h /include/wchar.h /include/features.h \
+  /include/stdarg.h
+
+../config.h:
+
+printf-args.h:
+
+/include/stddef.h:
+
+/include/bits/alltypes.h:
+
+/include/wchar.h:
+
+/include/features.h:
+
+/include/stdarg.h:

@@ -1,0 +1,23 @@
+filenamecat.o: filenamecat.c ../config.h filenamecat.h /include/string.h \
+  /include/features.h /include/bits/alltypes.h /include/strings.h \
+  dirname.h /include/stdbool.h /include/stddef.h xalloc.h
+
+../config.h:
+
+filenamecat.h:
+
+/include/string.h:
+
+/include/features.h:
+
+/include/bits/alltypes.h:
+
+/include/strings.h:
+
+dirname.h:
+
+/include/stdbool.h:
+
+/include/stddef.h:
+
+xalloc.h:

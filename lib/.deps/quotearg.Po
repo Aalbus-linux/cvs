@@ -1,0 +1,51 @@
+quotearg.o: quotearg.c ../config.h quotearg.h /include/stddef.h \
+  /include/bits/alltypes.h xalloc.h /include/ctype.h /include/features.h \
+  /include/errno.h /include/bits/errno.h /include/limits.h \
+  /include/bits/limits.h /include/stdbool.h /include/stdlib.h \
+  /include/alloca.h /include/string.h /include/strings.h gettext.h \
+  /include/libintl.h /include/stdio.h /include/time.h /include/wchar.h \
+  /include/wctype.h
+
+../config.h:
+
+quotearg.h:
+
+/include/stddef.h:
+
+/include/bits/alltypes.h:
+
+xalloc.h:
+
+/include/ctype.h:
+
+/include/features.h:
+
+/include/errno.h:
+
+/include/bits/errno.h:
+
+/include/limits.h:
+
+/include/bits/limits.h:
+
+/include/stdbool.h:
+
+/include/stdlib.h:
+
+/include/alloca.h:
+
+/include/string.h:
+
+/include/strings.h:
+
+gettext.h:
+
+/include/libintl.h:
+
+/include/stdio.h:
+
+/include/time.h:
+
+/include/wchar.h:
+
+/include/wctype.h:

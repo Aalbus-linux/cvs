@@ -1,0 +1,19 @@
+fd-safer.o: fd-safer.c ../config.h unistd-safer.h /include/errno.h \
+  /include/features.h /include/bits/errno.h /include/unistd.h \
+  /include/bits/alltypes.h /include/bits/posix.h
+
+../config.h:
+
+unistd-safer.h:
+
+/include/errno.h:
+
+/include/features.h:
+
+/include/bits/errno.h:
+
+/include/unistd.h:
+
+/include/bits/alltypes.h:
+
+/include/bits/posix.h:

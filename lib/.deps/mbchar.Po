@@ -1,0 +1,30 @@
+mbchar.o: mbchar.c ../config.h /include/limits.h /include/features.h \
+  /include/bits/alltypes.h /include/bits/limits.h mbchar.h \
+  /include/stdbool.h /include/string.h /include/strings.h \
+  /include/stdio.h /include/time.h /include/wchar.h /include/wctype.h
+
+../config.h:
+
+/include/limits.h:
+
+/include/features.h:
+
+/include/bits/alltypes.h:
+
+/include/bits/limits.h:
+
+mbchar.h:
+
+/include/stdbool.h:
+
+/include/string.h:
+
+/include/strings.h:
+
+/include/stdio.h:
+
+/include/time.h:
+
+/include/wchar.h:
+
+/include/wctype.h:

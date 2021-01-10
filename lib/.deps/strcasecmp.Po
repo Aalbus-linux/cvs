@@ -1,0 +1,44 @@
+strcasecmp.o: strcasecmp.c ../config.h strcase.h /include/stddef.h \
+  /include/bits/alltypes.h /include/ctype.h /include/features.h \
+  mbuiter.h /include/assert.h /include/stdbool.h /include/stdlib.h \
+  /include/alloca.h /include/stdio.h /include/time.h /include/wchar.h \
+  mbchar.h /include/string.h /include/strings.h /include/wctype.h \
+  strnlen1.h
+
+../config.h:
+
+strcase.h:
+
+/include/stddef.h:
+
+/include/bits/alltypes.h:
+
+/include/ctype.h:
+
+/include/features.h:
+
+mbuiter.h:
+
+/include/assert.h:
+
+/include/stdbool.h:
+
+/include/stdlib.h:
+
+/include/alloca.h:
+
+/include/stdio.h:
+
+/include/time.h:
+
+/include/wchar.h:
+
+mbchar.h:
+
+/include/string.h:
+
+/include/strings.h:
+
+/include/wctype.h:
+
+strnlen1.h:

@@ -1,0 +1,40 @@
+getndelim2.o: getndelim2.c ../config.h getndelim2.h /include/stdio.h \
+  /include/features.h /include/bits/alltypes.h /include/sys/types.h \
+  /include/endian.h /include/sys/select.h /include/stdlib.h \
+  /include/alloca.h /include/stddef.h unlocked-io.h /include/limits.h \
+  /include/bits/limits.h /include/inttypes.h /include/stdint.h \
+  /include/bits/stdint.h
+
+../config.h:
+
+getndelim2.h:
+
+/include/stdio.h:
+
+/include/features.h:
+
+/include/bits/alltypes.h:
+
+/include/sys/types.h:
+
+/include/endian.h:
+
+/include/sys/select.h:
+
+/include/stdlib.h:
+
+/include/alloca.h:
+
+/include/stddef.h:
+
+unlocked-io.h:
+
+/include/limits.h:
+
+/include/bits/limits.h:
+
+/include/inttypes.h:
+
+/include/stdint.h:
+
+/include/bits/stdint.h:

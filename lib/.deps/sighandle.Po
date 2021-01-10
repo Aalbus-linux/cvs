@@ -1,0 +1,93 @@
+sighandle.o: sighandle.c ../config.h system.h /include/limits.h \
+  /include/features.h /include/bits/alltypes.h /include/bits/limits.h \
+  /include/stdarg.h /include/stddef.h /include/assert.h /include/ctype.h \
+  /include/errno.h /include/bits/errno.h /include/signal.h \
+  /include/bits/signal.h /include/stdio.h /include/stdlib.h \
+  /include/alloca.h /include/string.h /include/strings.h \
+  /include/sys/types.h /include/endian.h /include/sys/select.h \
+  /include/stdbool.h /include/fnmatch.h getopt.h /include/unistd.h \
+  /include/bits/posix.h /include/sys/stat.h /include/bits/stat.h \
+  /include/inttypes.h /include/stdint.h /include/bits/stdint.h \
+  /include/pwd.h gettext.h /include/libintl.h /include/utime.h \
+  /include/fcntl.h /include/bits/fcntl.h /include/dirent.h \
+  /include/bits/dirent.h
+
+../config.h:
+
+system.h:
+
+/include/limits.h:
+
+/include/features.h:
+
+/include/bits/alltypes.h:
+
+/include/bits/limits.h:
+
+/include/stdarg.h:
+
+/include/stddef.h:
+
+/include/assert.h:
+
+/include/ctype.h:
+
+/include/errno.h:
+
+/include/bits/errno.h:
+
+/include/signal.h:
+
+/include/bits/signal.h:
+
+/include/stdio.h:
+
+/include/stdlib.h:
+
+/include/alloca.h:
+
+/include/string.h:
+
+/include/strings.h:
+
+/include/sys/types.h:
+
+/include/endian.h:
+
+/include/sys/select.h:
+
+/include/stdbool.h:
+
+/include/fnmatch.h:
+
+getopt.h:
+
+/include/unistd.h:
+
+/include/bits/posix.h:
+
+/include/sys/stat.h:
+
+/include/bits/stat.h:
+
+/include/inttypes.h:
+
+/include/stdint.h:
+
+/include/bits/stdint.h:
+
+/include/pwd.h:
+
+gettext.h:
+
+/include/libintl.h:
+
+/include/utime.h:
+
+/include/fcntl.h:
+
+/include/bits/fcntl.h:
+
+/include/dirent.h:
+
+/include/bits/dirent.h:

@@ -1,0 +1,179 @@
+run.o: run.c cvs.h ../config.h ../lib/system.h /include/limits.h \
+  /include/features.h /include/bits/alltypes.h /include/bits/limits.h \
+  /include/stdarg.h /include/stddef.h /include/assert.h /include/ctype.h \
+  /include/errno.h /include/bits/errno.h /include/signal.h \
+  /include/bits/signal.h /include/stdio.h /include/stdlib.h \
+  /include/alloca.h /include/string.h /include/strings.h \
+  /include/sys/types.h /include/endian.h /include/sys/select.h \
+  /include/stdbool.h /include/fnmatch.h ../lib/getopt.h \
+  /include/unistd.h /include/bits/posix.h /include/sys/stat.h \
+  /include/bits/stat.h /include/inttypes.h /include/stdint.h \
+  /include/bits/stdint.h /include/pwd.h ../lib/gettext.h \
+  /include/libintl.h /include/utime.h /include/fcntl.h \
+  /include/bits/fcntl.h /include/dirent.h /include/bits/dirent.h \
+  ../lib/dirname.h ../lib/exit.h ../lib/getdate.h ../lib/timespec.h \
+  /include/sys/time.h /include/time.h ../lib/minmax.h \
+  /include/sys/param.h /include/sys/resource.h /include/bits/resource.h \
+  ../lib/regex.h ../lib/strcase.h ../lib/stat-macros.h \
+  ../lib/unlocked-io.h ../lib/xalloc.h ../lib/xgetcwd.h \
+  ../lib/xreadlink.h ../lib/xsize.h hash.h stack.h root.h client.h \
+  /include/sys/socket.h /include/bits/socket.h /include/netinet/in.h \
+  /include/arpa/inet.h /include/netdb.h myndbm.h ../lib/wait.h \
+  /include/sys/wait.h rcs.h ../lib/pathmax.h parseinfo.h ../lib/error.h \
+  subr.h update.h server.h
+
+cvs.h:
+
+../config.h:
+
+../lib/system.h:
+
+/include/limits.h:
+
+/include/features.h:
+
+/include/bits/alltypes.h:
+
+/include/bits/limits.h:
+
+/include/stdarg.h:
+
+/include/stddef.h:
+
+/include/assert.h:
+
+/include/ctype.h:
+
+/include/errno.h:
+
+/include/bits/errno.h:
+
+/include/signal.h:
+
+/include/bits/signal.h:
+
+/include/stdio.h:
+
+/include/stdlib.h:
+
+/include/alloca.h:
+
+/include/string.h:
+
+/include/strings.h:
+
+/include/sys/types.h:
+
+/include/endian.h:
+
+/include/sys/select.h:
+
+/include/stdbool.h:
+
+/include/fnmatch.h:
+
+../lib/getopt.h:
+
+/include/unistd.h:
+
+/include/bits/posix.h:
+
+/include/sys/stat.h:
+
+/include/bits/stat.h:
+
+/include/inttypes.h:
+
+/include/stdint.h:
+
+/include/bits/stdint.h:
+
+/include/pwd.h:
+
+../lib/gettext.h:
+
+/include/libintl.h:
+
+/include/utime.h:
+
+/include/fcntl.h:
+
+/include/bits/fcntl.h:
+
+/include/dirent.h:
+
+/include/bits/dirent.h:
+
+../lib/dirname.h:
+
+../lib/exit.h:
+
+../lib/getdate.h:
+
+../lib/timespec.h:
+
+/include/sys/time.h:
+
+/include/time.h:
+
+../lib/minmax.h:
+
+/include/sys/param.h:
+
+/include/sys/resource.h:
+
+/include/bits/resource.h:
+
+../lib/regex.h:
+
+../lib/strcase.h:
+
+../lib/stat-macros.h:
+
+../lib/unlocked-io.h:
+
+../lib/xalloc.h:
+
+../lib/xgetcwd.h:
+
+../lib/xreadlink.h:
+
+../lib/xsize.h:
+
+hash.h:
+
+stack.h:
+
+root.h:
+
+client.h:
+
+/include/sys/socket.h:
+
+/include/bits/socket.h:
+
+/include/netinet/in.h:
+
+/include/arpa/inet.h:
+
+/include/netdb.h:
+
+myndbm.h:
+
+../lib/wait.h:
+
+/include/sys/wait.h:
+
+rcs.h:
+
+../lib/pathmax.h:
+
+parseinfo.h:
+
+../lib/error.h:
+
+subr.h:
+
+update.h:
+
+server.h:

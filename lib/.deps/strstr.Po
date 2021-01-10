@@ -1,0 +1,41 @@
+strstr.o: strstr.c ../config.h strstr.h /include/string.h \
+  /include/features.h /include/bits/alltypes.h /include/strings.h \
+  /include/stddef.h mbuiter.h /include/assert.h /include/stdbool.h \
+  /include/stdlib.h /include/alloca.h /include/stdio.h /include/time.h \
+  /include/wchar.h mbchar.h /include/wctype.h strnlen1.h
+
+../config.h:
+
+strstr.h:
+
+/include/string.h:
+
+/include/features.h:
+
+/include/bits/alltypes.h:
+
+/include/strings.h:
+
+/include/stddef.h:
+
+mbuiter.h:
+
+/include/assert.h:
+
+/include/stdbool.h:
+
+/include/stdlib.h:
+
+/include/alloca.h:
+
+/include/stdio.h:
+
+/include/time.h:
+
+/include/wchar.h:
+
+mbchar.h:
+
+/include/wctype.h:
+
+strnlen1.h:

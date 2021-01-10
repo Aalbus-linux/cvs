@@ -1,0 +1,60 @@
+regex.o: regex.c ../config.h /include/limits.h /include/features.h \
+  /include/bits/alltypes.h /include/bits/limits.h regex.h \
+  /include/sys/types.h /include/endian.h /include/sys/select.h \
+  regex_internal.h /include/assert.h /include/ctype.h /include/stdbool.h \
+  /include/stdio.h /include/stdlib.h /include/alloca.h /include/string.h \
+  /include/strings.h /include/langinfo.h /include/nl_types.h \
+  /include/locale.h /include/wchar.h /include/wctype.h regex_internal.c \
+  regcomp.c regexec.c
+
+../config.h:
+
+/include/limits.h:
+
+/include/features.h:
+
+/include/bits/alltypes.h:
+
+/include/bits/limits.h:
+
+regex.h:
+
+/include/sys/types.h:
+
+/include/endian.h:
+
+/include/sys/select.h:
+
+regex_internal.h:
+
+/include/assert.h:
+
+/include/ctype.h:
+
+/include/stdbool.h:
+
+/include/stdio.h:
+
+/include/stdlib.h:
+
+/include/alloca.h:
+
+/include/string.h:
+
+/include/strings.h:
+
+/include/langinfo.h:
+
+/include/nl_types.h:
+
+/include/locale.h:
+
+/include/wchar.h:
+
+/include/wctype.h:
+
+regex_internal.c:
+
+regcomp.c:
+
+regexec.c:

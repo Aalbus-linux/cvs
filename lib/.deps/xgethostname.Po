@@ -1,0 +1,28 @@
+xgethostname.o: xgethostname.c ../config.h xgethostname.h \
+  /include/stdlib.h /include/features.h /include/bits/alltypes.h \
+  /include/alloca.h /include/errno.h /include/bits/errno.h \
+  /include/unistd.h /include/bits/posix.h xalloc.h /include/stddef.h
+
+../config.h:
+
+xgethostname.h:
+
+/include/stdlib.h:
+
+/include/features.h:
+
+/include/bits/alltypes.h:
+
+/include/alloca.h:
+
+/include/errno.h:
+
+/include/bits/errno.h:
+
+/include/unistd.h:
+
+/include/bits/posix.h:
+
+xalloc.h:
+
+/include/stddef.h:

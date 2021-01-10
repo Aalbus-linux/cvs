@@ -1,0 +1,26 @@
+getopt1.o: getopt1.c ../config.h getopt.h /include/stdlib.h \
+  /include/features.h /include/bits/alltypes.h /include/alloca.h \
+  /include/stdio.h /include/unistd.h /include/bits/posix.h \
+  /include/ctype.h getopt_int.h
+
+../config.h:
+
+getopt.h:
+
+/include/stdlib.h:
+
+/include/features.h:
+
+/include/bits/alltypes.h:
+
+/include/alloca.h:
+
+/include/stdio.h:
+
+/include/unistd.h:
+
+/include/bits/posix.h:
+
+/include/ctype.h:
+
+getopt_int.h:

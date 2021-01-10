@@ -1,0 +1,44 @@
+save-cwd.o: save-cwd.c ../config.h save-cwd.h /include/stdbool.h \
+  /include/stdio.h /include/features.h /include/bits/alltypes.h \
+  /include/stdlib.h /include/alloca.h /include/unistd.h \
+  /include/bits/posix.h /include/fcntl.h /include/bits/fcntl.h \
+  /include/errno.h /include/bits/errno.h chdir-long.h /include/limits.h \
+  /include/bits/limits.h unistd-safer.h xgetcwd.h
+
+../config.h:
+
+save-cwd.h:
+
+/include/stdbool.h:
+
+/include/stdio.h:
+
+/include/features.h:
+
+/include/bits/alltypes.h:
+
+/include/stdlib.h:
+
+/include/alloca.h:
+
+/include/unistd.h:
+
+/include/bits/posix.h:
+
+/include/fcntl.h:
+
+/include/bits/fcntl.h:
+
+/include/errno.h:
+
+/include/bits/errno.h:
+
+chdir-long.h:
+
+/include/limits.h:
+
+/include/bits/limits.h:
+
+unistd-safer.h:
+
+xgetcwd.h:

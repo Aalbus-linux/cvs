@@ -1,0 +1,21 @@
+getnline.o: getnline.c ../config.h getnline.h /include/stdio.h \
+  /include/features.h /include/bits/alltypes.h /include/sys/types.h \
+  /include/endian.h /include/sys/select.h getndelim2.h
+
+../config.h:
+
+getnline.h:
+
+/include/stdio.h:
+
+/include/features.h:
+
+/include/bits/alltypes.h:
+
+/include/sys/types.h:
+
+/include/endian.h:
+
+/include/sys/select.h:
+
+getndelim2.h:

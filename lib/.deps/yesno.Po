@@ -1,0 +1,30 @@
+yesno.o: yesno.c ../config.h yesno.h /include/stdbool.h /include/stdlib.h \
+  /include/features.h /include/bits/alltypes.h /include/alloca.h \
+  /include/stdio.h getline.h /include/stddef.h /include/sys/types.h \
+  /include/endian.h /include/sys/select.h
+
+../config.h:
+
+yesno.h:
+
+/include/stdbool.h:
+
+/include/stdlib.h:
+
+/include/features.h:
+
+/include/bits/alltypes.h:
+
+/include/alloca.h:
+
+/include/stdio.h:
+
+getline.h:
+
+/include/stddef.h:
+
+/include/sys/types.h:
+
+/include/endian.h:
+
+/include/sys/select.h:

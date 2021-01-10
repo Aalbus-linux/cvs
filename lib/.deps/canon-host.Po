@@ -1,0 +1,42 @@
+canon-host.o: canon-host.c ../config.h canon-host.h getaddrinfo.h \
+  /include/sys/types.h /include/features.h /include/bits/alltypes.h \
+  /include/endian.h /include/sys/select.h /include/sys/socket.h \
+  /include/bits/socket.h /include/netdb.h /include/netinet/in.h \
+  /include/inttypes.h /include/stdint.h /include/bits/stdint.h strdup.h \
+  /include/string.h /include/strings.h
+
+../config.h:
+
+canon-host.h:
+
+getaddrinfo.h:
+
+/include/sys/types.h:
+
+/include/features.h:
+
+/include/bits/alltypes.h:
+
+/include/endian.h:
+
+/include/sys/select.h:
+
+/include/sys/socket.h:
+
+/include/bits/socket.h:
+
+/include/netdb.h:
+
+/include/netinet/in.h:
+
+/include/inttypes.h:
+
+/include/stdint.h:
+
+/include/bits/stdint.h:
+
+strdup.h:
+
+/include/string.h:
+
+/include/strings.h:

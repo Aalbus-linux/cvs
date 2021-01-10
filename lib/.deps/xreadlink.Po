@@ -1,0 +1,42 @@
+xreadlink.o: xreadlink.c ../config.h xreadlink.h /include/stddef.h \
+  /include/bits/alltypes.h /include/stdio.h /include/features.h \
+  /include/errno.h /include/bits/errno.h /include/limits.h \
+  /include/bits/limits.h /include/sys/types.h /include/endian.h \
+  /include/sys/select.h /include/stdlib.h /include/alloca.h \
+  /include/unistd.h /include/bits/posix.h xalloc.h
+
+../config.h:
+
+xreadlink.h:
+
+/include/stddef.h:
+
+/include/bits/alltypes.h:
+
+/include/stdio.h:
+
+/include/features.h:
+
+/include/errno.h:
+
+/include/bits/errno.h:
+
+/include/limits.h:
+
+/include/bits/limits.h:
+
+/include/sys/types.h:
+
+/include/endian.h:
+
+/include/sys/select.h:
+
+/include/stdlib.h:
+
+/include/alloca.h:
+
+/include/unistd.h:
+
+/include/bits/posix.h:
+
+xalloc.h:

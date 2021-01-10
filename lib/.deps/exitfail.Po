@@ -1,0 +1,16 @@
+exitfail.o: exitfail.c ../config.h exitfail.h exit.h /include/stdlib.h \
+  /include/features.h /include/bits/alltypes.h /include/alloca.h
+
+../config.h:
+
+exitfail.h:
+
+exit.h:
+
+/include/stdlib.h:
+
+/include/features.h:
+
+/include/bits/alltypes.h:
+
+/include/alloca.h:

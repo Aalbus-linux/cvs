@@ -1,0 +1,86 @@
+context.o: context.c diff.h system.h ../config.h /include/sys/types.h \
+  /include/features.h /include/bits/alltypes.h /include/endian.h \
+  /include/sys/select.h /include/sys/stat.h /include/bits/stat.h \
+  /include/unistd.h /include/bits/posix.h /include/fcntl.h \
+  /include/bits/fcntl.h /include/time.h /include/sys/wait.h \
+  /include/signal.h /include/bits/signal.h /include/sys/resource.h \
+  /include/sys/time.h /include/bits/resource.h /include/dirent.h \
+  /include/bits/dirent.h /include/stdlib.h /include/alloca.h \
+  /include/limits.h /include/bits/limits.h /include/string.h \
+  /include/strings.h /include/ctype.h /include/errno.h \
+  /include/bits/errno.h /include/stdio.h /include/setjmp.h \
+  /include/bits/setjmp.h ../lib/regex.h diffrun.h
+
+diff.h:
+
+system.h:
+
+../config.h:
+
+/include/sys/types.h:
+
+/include/features.h:
+
+/include/bits/alltypes.h:
+
+/include/endian.h:
+
+/include/sys/select.h:
+
+/include/sys/stat.h:
+
+/include/bits/stat.h:
+
+/include/unistd.h:
+
+/include/bits/posix.h:
+
+/include/fcntl.h:
+
+/include/bits/fcntl.h:
+
+/include/time.h:
+
+/include/sys/wait.h:
+
+/include/signal.h:
+
+/include/bits/signal.h:
+
+/include/sys/resource.h:
+
+/include/sys/time.h:
+
+/include/bits/resource.h:
+
+/include/dirent.h:
+
+/include/bits/dirent.h:
+
+/include/stdlib.h:
+
+/include/alloca.h:
+
+/include/limits.h:
+
+/include/bits/limits.h:
+
+/include/string.h:
+
+/include/strings.h:
+
+/include/ctype.h:
+
+/include/errno.h:
+
+/include/bits/errno.h:
+
+/include/stdio.h:
+
+/include/setjmp.h:
+
+/include/bits/setjmp.h:
+
+../lib/regex.h:
+
+diffrun.h:

@@ -1,0 +1,21 @@
+xmalloc.o: xmalloc.c ../config.h xalloc.h /include/stddef.h \
+  /include/bits/alltypes.h /include/stdlib.h /include/features.h \
+  /include/alloca.h /include/string.h /include/strings.h
+
+../config.h:
+
+xalloc.h:
+
+/include/stddef.h:
+
+/include/bits/alltypes.h:
+
+/include/stdlib.h:
+
+/include/features.h:
+
+/include/alloca.h:
+
+/include/string.h:
+
+/include/strings.h:

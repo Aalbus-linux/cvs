@@ -1,0 +1,28 @@
+mktime.o: mktime.c ../config.h /include/sys/types.h /include/features.h \
+  /include/bits/alltypes.h /include/endian.h /include/sys/select.h \
+  /include/time.h /include/limits.h /include/bits/limits.h \
+  /include/string.h /include/strings.h time_r.h
+
+../config.h:
+
+/include/sys/types.h:
+
+/include/features.h:
+
+/include/bits/alltypes.h:
+
+/include/endian.h:
+
+/include/sys/select.h:
+
+/include/time.h:
+
+/include/limits.h:
+
+/include/bits/limits.h:
+
+/include/string.h:
+
+/include/strings.h:
+
+time_r.h:

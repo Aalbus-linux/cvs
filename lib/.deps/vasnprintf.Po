@@ -1,0 +1,54 @@
+vasnprintf.o: vasnprintf.c ../config.h /include/alloca.h \
+  /include/bits/alltypes.h vasnprintf.h /include/stdarg.h \
+  /include/stddef.h /include/stdio.h /include/features.h \
+  /include/stdlib.h /include/string.h /include/strings.h \
+  /include/errno.h /include/bits/errno.h /include/limits.h \
+  /include/bits/limits.h /include/float.h /include/bits/float.h \
+  printf-parse.h printf-args.h /include/wchar.h xsize.h \
+  /include/stdint.h /include/bits/stdint.h
+
+../config.h:
+
+/include/alloca.h:
+
+/include/bits/alltypes.h:
+
+vasnprintf.h:
+
+/include/stdarg.h:
+
+/include/stddef.h:
+
+/include/stdio.h:
+
+/include/features.h:
+
+/include/stdlib.h:
+
+/include/string.h:
+
+/include/strings.h:
+
+/include/errno.h:
+
+/include/bits/errno.h:
+
+/include/limits.h:
+
+/include/bits/limits.h:
+
+/include/float.h:
+
+/include/bits/float.h:
+
+printf-parse.h:
+
+printf-args.h:
+
+/include/wchar.h:
+
+xsize.h:
+
+/include/stdint.h:
+
+/include/bits/stdint.h:

@@ -1,0 +1,12 @@
+stripslash.o: stripslash.c ../config.h dirname.h /include/stdbool.h \
+  /include/stddef.h /include/bits/alltypes.h
+
+../config.h:
+
+dirname.h:
+
+/include/stdbool.h:
+
+/include/stddef.h:
+
+/include/bits/alltypes.h:

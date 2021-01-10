@@ -1,0 +1,49 @@
+pagealign_alloc.o: pagealign_alloc.c ../config.h pagealign_alloc.h \
+  /include/stddef.h /include/bits/alltypes.h /include/errno.h \
+  /include/features.h /include/bits/errno.h /include/stdlib.h \
+  /include/alloca.h /include/fcntl.h /include/bits/fcntl.h \
+  /include/unistd.h /include/bits/posix.h /include/sys/mman.h \
+  /include/bits/mman.h error.h exit.h getpagesize.h xalloc.h gettext.h \
+  /include/libintl.h
+
+../config.h:
+
+pagealign_alloc.h:
+
+/include/stddef.h:
+
+/include/bits/alltypes.h:
+
+/include/errno.h:
+
+/include/features.h:
+
+/include/bits/errno.h:
+
+/include/stdlib.h:
+
+/include/alloca.h:
+
+/include/fcntl.h:
+
+/include/bits/fcntl.h:
+
+/include/unistd.h:
+
+/include/bits/posix.h:
+
+/include/sys/mman.h:
+
+/include/bits/mman.h:
+
+error.h:
+
+exit.h:
+
+getpagesize.h:
+
+xalloc.h:
+
+gettext.h:
+
+/include/libintl.h:

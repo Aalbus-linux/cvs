@@ -1,0 +1,17 @@
+allocsa.o: allocsa.c ../config.h allocsa.h /include/alloca.h \
+  /include/bits/alltypes.h /include/stddef.h /include/stdlib.h \
+  /include/features.h
+
+../config.h:
+
+allocsa.h:
+
+/include/alloca.h:
+
+/include/bits/alltypes.h:
+
+/include/stddef.h:
+
+/include/stdlib.h:
+
+/include/features.h:

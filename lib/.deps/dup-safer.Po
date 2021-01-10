@@ -1,0 +1,19 @@
+dup-safer.o: dup-safer.c ../config.h unistd-safer.h /include/fcntl.h \
+  /include/features.h /include/bits/alltypes.h /include/bits/fcntl.h \
+  /include/unistd.h /include/bits/posix.h
+
+../config.h:
+
+unistd-safer.h:
+
+/include/fcntl.h:
+
+/include/features.h:
+
+/include/bits/alltypes.h:
+
+/include/bits/fcntl.h:
+
+/include/unistd.h:
+
+/include/bits/posix.h:
